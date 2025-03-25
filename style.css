@@ -1,0 +1,86 @@
+.container{
+  display: flex;
+  gap:12px;
+  margin-left: 35%;
+  margin-top: 40%;
+}
+.red{
+  height: 30px;
+  width: 60px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top:2px;
+}
+.yellow{
+  height: 30px;
+  width: 60px;
+  background-color: yellow;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top: 2px;
+}
+.black{
+    height: 30px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px 10px;
+    padding-top: 2px;
+}
+.purple{
+  height: 30px;
+  width: 60px;
+  background-color: purple;
+  text-align: center;
+    border-radius: 10px 10px;
+    padding-top: 2px;
+}
+.black{
+  height: 30px;
+  width: 60px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top: 2px;
+}
+.purple{
+  height: 30px;
+  width: 60px;
+  background-color:purple;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top: 2px;
+}
+.green{
+  height: 30px;
+  width: 60px;
+  background-color: green;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top: 2px;
+}
+.blue{
+  height: 30px;
+  width: 60px;
+  background-color:blue;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top: 2px;
+}
+.default{
+  height: 30px;
+  width: 60px;
+  background-color: orange;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+  padding-top: 2px;
+}
